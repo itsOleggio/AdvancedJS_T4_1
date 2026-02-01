@@ -1,4 +1,4 @@
-# Задание 4.1 "Контейнер Ыуе"
+# Задание 4.1 "Контейнер Set"
 ![CI](https://github.com/itsOleggio/AdvancedJS_T4_1/actions/workflows/ci.yml/badge.svg)
 
 ## Описание 
